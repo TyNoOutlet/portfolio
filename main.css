@@ -21,3 +21,11 @@ body {
   margin: 0px;
   font-family: sans-serif;
 }
+
+.demo-video {
+  display: inline-block;
+}
+
+aside {
+  display: inline-block;
+}
