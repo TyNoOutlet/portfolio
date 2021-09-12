@@ -28,6 +28,7 @@ body {
 
 aside {
   display: inline;
+  position: absolute;
 }
 
 .video {
