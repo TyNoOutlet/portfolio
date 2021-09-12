@@ -29,3 +29,7 @@ body {
 aside {
   display: inline;
 }
+
+.video {
+  list-style-type: none;
+}
