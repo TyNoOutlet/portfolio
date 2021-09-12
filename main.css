@@ -24,6 +24,7 @@ body {
 
 .demo-video {
   display: inline;
+  border: 2px #000 solid;
 }
 
 aside {
