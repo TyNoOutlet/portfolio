@@ -29,7 +29,7 @@ body {
 
 aside {
   display: inline;
-  position: relative;
+  position: fixed;
   padding: 25px;
   font-size: 72px;
   font-family: Impact, sans-serif;
