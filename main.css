@@ -28,7 +28,10 @@ body {
 
 aside {
   display: inline;
-  position: absolute;
+  /* position: absolute; */
+  padding: 20px;
+  font-size: 72px;
+  font-family: Impact, sans-serif;
 }
 
 .video {
