@@ -19,7 +19,7 @@ header {
 
 body {
   margin: 0px;
-  font-family: sans-serif;
+  font-family: Gotham, sans-serif;
 }
 
 .demo-video {
@@ -28,7 +28,7 @@ body {
 
 aside {
   display: inline;
-  /* position: absolute; */
+  position: absolute;
   padding: 20px;
   font-size: 72px;
   font-family: Impact, sans-serif;
