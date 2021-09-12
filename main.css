@@ -11,7 +11,7 @@
   text-decoration: none;
 }
 
-header {
+header, footer {
   background-color: #444;
   color: #fff;
   padding: 20px;
