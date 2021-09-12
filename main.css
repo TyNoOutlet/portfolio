@@ -23,9 +23,9 @@ body {
 }
 
 .demo-video {
-  display: inline-block;
+  display: inline;
 }
 
 aside {
-  display: inline-block;
+  display: inline;
 }
