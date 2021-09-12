@@ -29,9 +29,10 @@ body {
 aside {
   display: inline;
   position: absolute;
-  padding: 20px;
+  padding: 25px;
   font-size: 72px;
   font-family: Impact, sans-serif;
+  text-align: center;
 }
 
 .video {
