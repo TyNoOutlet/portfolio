@@ -3,10 +3,11 @@
 }
 
 .home {
-  padding-left: 30px;
+  padding-left: 80px;
 }
 
 header {
-  background-color: #aaa;
+  background-color: #444;
   color: #fff;
+  padding: 200px;
 }
