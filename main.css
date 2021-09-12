@@ -39,3 +39,8 @@ aside {
 .video {
   list-style-type: none;
 }
+
+.links {
+  text-decoration: none;
+  color: #aaf;
+}
