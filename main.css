@@ -10,8 +10,8 @@ header {
   background-color: #444;
   color: #fff;
   padding: 20px;
-  border-left: 50px;
-  border-right: 50px;
-  border-top: 50px;
-  border-color: #444;
+}
+
+body {
+  margin: 0px;
 }
