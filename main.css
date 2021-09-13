@@ -38,6 +38,8 @@ aside {
   font-family: Impact, sans-serif;
   text-align: center;
   border: 5px solid #888;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .video {
