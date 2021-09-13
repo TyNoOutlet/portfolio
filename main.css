@@ -42,6 +42,8 @@ aside {
   text-align: center;
   border: 5px solid #888;
   height: 700px;
+  background-color: #ccf;
+  color: #220;
 }
 
 .video {
