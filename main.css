@@ -56,3 +56,7 @@ aside {
 #review, #contact {
   text-align: center;
 }
+
+.aside {
+  margin-top: 0px;
+}
