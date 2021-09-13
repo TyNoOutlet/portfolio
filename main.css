@@ -51,3 +51,9 @@ aside {
 #review, #contact {
   text-align: center;
 }
+
+blockquote {
+  position: absolute;
+  left: 700px;
+  right: 700px;
+}
