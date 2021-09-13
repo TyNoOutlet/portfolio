@@ -37,6 +37,7 @@ aside {
   font-size: 72px;
   font-family: Impact, sans-serif;
   text-align: center;
+  border: 5px solid #888;
 }
 
 .video {
